@@ -1,7 +1,6 @@
 ScriptsOnlyBuild:
   usedScripts:
     Unity.2D.Tilemap.Editor.dll:
-    - UnityEditor.Tilemaps.GridBrush
     - UnityEditor.Tilemaps.GridPaintingState
     - UnityEditor.Tilemaps.GridPaletteBrushes
     - UnityEditor.Tilemaps.GridPalettes
@@ -54,19 +53,19 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 570}
     - Class: 114
-      Script: {instanceID: 11212}
+      Script: {instanceID: 11154}
     - Class: 114
-      Script: {instanceID: 11382}
+      Script: {instanceID: 11324}
     - Class: 114
-      Script: {instanceID: 11422}
+      Script: {instanceID: 11364}
     - Class: 114
-      Script: {instanceID: 11836}
+      Script: {instanceID: 11778}
     - Class: 114
-      Script: {instanceID: 12244}
+      Script: {instanceID: 12186}
     - Class: 114
-      Script: {instanceID: 12752}
+      Script: {instanceID: 12694}
     - Class: 114
-      Script: {instanceID: 13134}
+      Script: {instanceID: 13076}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
